@@ -7,7 +7,7 @@ I am currently a Mechanincal Engineering Dual Degree Student at IIT Bombay('17-'
   -  my Dual Degree Thesis
 
 
--  🌱 I’m currently learning
+- 🌱 I’m currently learning
   - German 🇩🇪
   - Music Theory
 
