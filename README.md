@@ -13,7 +13,7 @@ I am currently a Mechanincal Engineering Dual Degree Student at IIT Bombay('17-'
 
 
 - 💬 Ask me about: 
-  - 🏎 Formula 1, Quizzing
+  - Formula 1
   - Movies
 
 - 📫 How to reach me: 
