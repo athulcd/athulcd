@@ -2,7 +2,7 @@
 
 I am Athul C D, currently a Mechanincal Engineering Dual Degree Student at IIT Bombay('17-'22).   
 
-📝 [My Resume](https://athulcd.github.io/cv/) 🌐 [My Website](https://athulcd.github.io/) 📝 [Blogs/Articles written by me](https://athulcd.github.io/blog/)
+📝 [Resume](https://athulcd.github.io/cv/) 🌐 [Website](https://athulcd.github.io/) 📝 [Blogs/Articles written by me](https://athulcd.github.io/blog/)
 
 
 - 🔭 I’m currently working on:
@@ -21,6 +21,7 @@ I am Athul C D, currently a Mechanincal Engineering Dual Degree Student at IIT B
 - 📫 How to reach me: 
   - Twitter: [@AthulCD](https://twitter.com/AthulCD)
   - [athulcd@gmail.com](mailto:athulcd@gmail.com)
+  - Telegram: [t.me/athulcd](https://t.me/athulcd)
 
 
 - 👯 I’m looking to collaborate on:
