@@ -19,7 +19,7 @@ I am Athul C D, currently a Senior Undergraduate at Indian Institute of Technolo
   - Twitter: [@AthulCD](https://twitter.com/AthulCD)
   - [athulcd@gmail.com](mailto:athulcd@gmail.com)
   - Telegram: [t.me/athulcd](https://t.me/athulcd)
-  - LinkedIn: []()
+  - LinkedIn: [linkedin.com/in/athulcd/](https://www.linkedin.com/in/athulcd/)
 
 - 👯 I’m looking to collaborate on:
   - Builing something cool :)
