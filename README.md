@@ -14,6 +14,7 @@ I am Athul C D, currently a Senior Undergraduate at Indian Institute of Technolo
 - 💬 Ask me about: 
   - Formula 1
   - Star Wars
+  - Kerala
 
 - 📫 How to reach me: 
   - Twitter: [@AthulCD](https://twitter.com/AthulCD)
