@@ -27,4 +27,4 @@ I am Athul C D, currently a Senior Undergraduate at Indian Institute of Technolo
 
 - ⚡ Fun Fact: Darth Vader never said "Luke, I Am Your Father"
 
-- I like to play around with various open source software, linux distros, desktop environments, window managers etc. My dotfiles can be found in this [repo](https://github.com/athulcd/Manjaro_dotfiles)
+- I like to play around with various open source software, linux distros, desktop environments, window managers etc. My dotfiles can be found in this [repo](https://github.com/athulcd/Arch-Config)
