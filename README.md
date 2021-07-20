@@ -5,7 +5,7 @@ I am Athul C D, currently a Senior Undergraduate at Indian Institute of Technolo
 📝 [Resume](https://athulcd.github.io/cv/) 🌐 [Website](https://athulcd.github.io/) 📝 [Blogs/Articles written by me](https://athulcd.github.io/blog/)
 
 - 🔭 I’m currently working on:
-  -  my Dual Degree Thesis
+  -  my Master's (Dual Degree) Thesis
 
 - 🌱 I’m currently learning
   - German 🇩🇪
