@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Athul C D, currently a Senior Undergraduate at Indian Institute of Technology (IIT) Bombay, majoring in Mechanincal Engineering('17-'22).   
+I am Athul C D, I will be joining Purdue University as PhD student in Fall '22   
 
 🌐 [Website](https://athulcd.github.io/)
 
