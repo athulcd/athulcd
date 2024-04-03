@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Athul C D, I will be joining Purdue University as PhD student in Fall '22   
+I am Athul C D, I am a graduate student at Purdue University.  
 
 🌐 [Website](https://athulcd.github.io/)
 
 - 📫 How to reach me: 
   - Twitter: [@AthulCD](https://twitter.com/AthulCD)
-  - [athulcd@gmail.com](mailto:athulcd@gmail.com)
+  - [achakkit@purdue.edu](mailto:achakkit@purdue.edu)
   - LinkedIn: [linkedin.com/in/athulcd/](https://www.linkedin.com/in/athulcd/)
