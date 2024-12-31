@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Athul C D, I am a graduate student at Purdue University.  
+I am Athul C D, a Purdue University graduate student.  
 
 🌐 [Website](https://athulcd.github.io/)
 
-- 📫 How to reach me: 
-  - Twitter: [@AthulCD](https://twitter.com/AthulCD)
-  - 📨 [achakkit@purdue.edu](mailto:achakkit@purdue.edu), [athulcd@gmail.com](mailto:athulcd@gmail.com)
-  - LinkedIn: [linkedin.com/in/athulcd/](https://www.linkedin.com/in/athulcd/)
+📫 How to reach me: 
+- 🕊️ twitter: [@AthulCD](https://twitter.com/AthulCD)
+- 📨 email: [achakkit@purdue.edu](mailto:achakkit@purdue.edu), [athulcd@gmail.com](mailto:athulcd@gmail.com)
+- 🧑‍🏫 linkedin: [linkedin.com/in/athulcd/](https://www.linkedin.com/in/athulcd/)
