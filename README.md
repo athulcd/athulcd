@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Athul C D, a Purdue University graduate student.  
+I am Athul C D, a graduate student at Purdue University.  
 
 🌐 [Website](https://athulcd.github.io/)
 
